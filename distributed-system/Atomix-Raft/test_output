@@ -1,0 +1,12 @@
+Welcome! Sometimes, help can help you =D
+Create OK -> [1]: Marcus
+Create OK -> [2]: Lucas
+Create OK -> [3]: Isadora
+Update OK -> [1]: MarcusAdriano
+Read OK -> [1] = MarcusAdriano
+Delete OK -> Isadora
+Update OK -> [2]: LucasT
+Delete OK -> MarcusAdriano
+Read OK -> [2] = LucasT
+server is down
+bye

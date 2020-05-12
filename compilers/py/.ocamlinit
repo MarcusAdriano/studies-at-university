@@ -1,0 +1,21 @@
+#use "topfind";;
+#require "menhirLib";;
+#directory "_build";;
+#load "lexico.cmo";;
+#load "pre_processador.cmo";;
+#load "ast.cmo";;
+#load "sast.cmo";;
+#load "tast.cmo";;
+#load "tabsimb.cmo";;
+#load "ambiente.cmo";;
+#load "semantico.cmo";;
+#load "sintatico.cmo";;
+#load "Codigo.cmo";;
+#load "Cod3End.cmo";;
+#load "cod3endTest.cmo";;
+
+open Ast
+open Ambiente
+open Codigo
+open Cod3End
+open Cod3endTest
